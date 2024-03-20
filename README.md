@@ -1,6 +1,8 @@
 # python-challenge
 
-Code written for this module's challenge was written with the help of course material, learning assistance, and ChatGPT.
+The code for this module's challenge was written with the help of course material, peer collaboration, learning assistance, and ChatGPT. 
+
+I collaborated with Zach, Paola and Astrid and therefore may have similarities in code. 
 
 CSV header code and importing filepath was included using lecture "Reading, Writing, and Pyrithmetic"
 Rest of code was written using references from course material/exercises
